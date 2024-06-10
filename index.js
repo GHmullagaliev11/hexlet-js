@@ -1,3 +1,3 @@
-import firstFile from './src/index.js'
+import firstFile from './src/index.js';
 
 firstFile();
